@@ -17,6 +17,9 @@ write a method larger_number(num1, num2) takes in two numbers and returns the la
 4.	**Word check :**
 write a method word_check(word)that takes in a word and returns a string. the method should return the string "long" if the word is longer than 6 characters ,"short" if it is less than 6 characters and "medium" if it is exactly 6 characters long.
 
+5. **Count E :** 
+write a method count_e(word) that takes in a string word and returns the number of e's in the word.
+
 **Author** 
 -Memory Tshipapu
 
