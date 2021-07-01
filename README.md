@@ -1,4 +1,7 @@
-beginner practice challenges
+Beginner practice challenges
+
+built with
+.Javascript
 
 challenges
 1.DivisibleBy5
